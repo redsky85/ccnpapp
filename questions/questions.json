@@ -1,0 +1,58 @@
+[
+{
+    "question": "True or False: VRRP is a Cisco proprietary protocol.",
+    "answer": "false",
+    "points": 1,
+    "category": "Layer 3 Protocols"
+},
+{
+    "question": "What does NTP use to calculate the accuracy of time?",
+    "options": "A) The Internet\nB) feasible distance\nC) stratum\nD) clocks",
+    "answer": "C",
+    "points": 2,
+    "category": "Network Management"
+},
+{
+    "question": "True or False: HSRP allows load balancing between routers.",
+    "answer": "false",
+    "points": 1,
+    "category": "Layer 3 Protocols"
+},
+{
+    "question": "What is the maximum interval that an NTP client can syncronize it's time with another peer?",
+    "options": "A) 2 minutes\nB) 10 Minutes\nC) 1 hour\nD) 20 minutes",
+    "answer": "A",
+    "points": 2,
+    "category": "Layer 3 Protocols"
+},
+{
+    "question": "What multicast addresses does OSPFv2 use? (choose 2)",
+    "options": "A) 224.0.0.6\nB) 223.0.0.2\nC) 224.0.0.10\nD) 224.0.0.5",
+    "answer1": "A",
+    "answer2": "D",
+    "points": 3,
+    "category": "Routing Protocols"
+
+},
+{
+    "question": "Which one of these is not an FHRP?",
+    "options": "A) VRRP\nB) ODR\nC) IGMP\nD) HSRP",
+    "answer": "C",
+    "points": 2,
+    "category": "Layer 3 Protocols"
+},
+{
+    "question": "Where do LISP routers and EIDs reside?",
+    "options": "A) tunnel router\nB) network backbone\nC) edge router\nD) LISP site",
+    "answer": "D",
+    "points": 2,
+    "category": "Overlay Networks"
+},
+{
+    "question": "This device de-encapsulates LISP encapsulated packets from outside sites to endpoint identifiers.",
+    "options": "A) LISP router\nB) egress tunnel router\nC) proxy router\nD) ingress tunnel router",
+    "answer": "B",
+    "points": 2,
+    "category": "Overlay Networks"
+}
+]

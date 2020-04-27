@@ -1,0 +1,33 @@
+#Templates for questions
+
+True or False:
+{
+    "question": "",
+    "answer": "",
+    "points": 1,
+    "category": ""
+}
+
+True or False:
+{
+    "question": "",
+    "options": "A) \nB) \nC) \nD) ",
+    "answer": "",
+    "points": 2,
+    "category": ""
+}
+
+
+Multiple Selections - Still a work in progress
+
+Two answers:
+
+{
+    "question": "What multicast addresses does OSPFvS2 use? (choose 2)",
+    "options": "A) \nB) \nC) \nD) ",
+    "answer1": "",
+    "answer2": "",
+    "points": 3,
+    "category": ""
+}
+
